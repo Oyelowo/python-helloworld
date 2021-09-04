@@ -1,0 +1,10 @@
+apiVersion: v1
+name: python-helloworld
+description: Install a python helloworld deployment
+keywords:
+- python
+- helloworld
+versiom: 1.0.0
+maintainers:
+- name: Oyeloworld
+  email: Oyeloworld@world.com
